@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "snake",
-    "slug": "snake",
+    "name": "tic-tac-toe",
+    "slug": "example",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -17,9 +17,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "packagerOpts":{
-      "assetExts": ["ttf", "mp4", "otf", "xml"]
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -28,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
