@@ -180,7 +180,7 @@ class Game extends Component{
         render() {
           return (
             <ImageBackground
-            source={require("../assets/background_game")}
+            source={require("../assets/backgroung_game.png")}
             style={styles.container}
           >
             <View style={styles.container}>

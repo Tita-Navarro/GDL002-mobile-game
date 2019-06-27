@@ -8,7 +8,7 @@ class Start extends Component {
   render() {
     return (
       <ImageBackground
-        source={require("../assets/portada")}
+        source={require("../assets/portada.png")}
         style={styles.container}
       >
         <View style={{ paddingTop: 500}}>
